@@ -1,0 +1,557 @@
+0;Diplomatisches Corps
+A;Augsburg;Bayern
+AA;Aalen Ostalbkreis;BaWü
+AB;Aschaffenburg;Bayern
+ABG;Altenburger Land;Thür
+AC;Aachen;NrWe
+AD;Privatfahrzeuge der amerikanischen Streitkräfte
+AE;Auerbach;Sachs;a
+AF;Privatfahrzeuge der amerikanischen Streitkräfte
+AIC;Aichach-Friedberg;Bayern
+AK;Altenkirchen/Westerwald;RhPf
+AM;Amberg;Bayern
+AN;Ansbach;Bayern
+ANA;Annaberg;Sachs
+ANG;Angermünde;Brandenburg;a
+ANK;Anklam;MeVo;a
+AÖ;Altötting;Bayern
+AP;Apolda;Weimarer Land;Thür
+APD;Apolda;Thür;a
+ARN;Arnstadt;Thür;a
+ART;Artern;Thür;a
+AS;Amberg-Sulzbach;Bayern
+ASL;Aschersleben;SaAn
+ASZ;Aue-Schwarzenberg;Sachs
+AT;Altentreptow;MeVo;a
+AU;Aue;Sachs;a
+AUR;Aurich;NiSa
+AW;Bad Neuenahr-Ahrweiler;RhPf
+AZ;Alzey-Worms;RhPf
+AZE;Anhalt-Zerbst;SaAn
+B;Berlin;Bln
+BA;Bamberg;Bayern
+BAD;Baden-Baden;BaWü
+BAR;Barnim;Brandenburg
+BB;Böblingen;BaWü
+BBG;Bernburg;SaAn
+BBL;Brandenburgdenburg Landeregierung und Landtag
+BC;Biberach/Riß;BaWü
+BD;Bundestag, Bundesrat, Bundesregierung
+BED;Brandenburgd-Erbisdorf;Sachs;a
+BEL;Belzig;Brandenburg;a
+BER;Bernau bei Berlin;Brandenburg;a
+BG;Bundesgrenzschutz
+BGL;Berchtesgadener Land;Bayern
+BI;Bielefeld;NrWe
+BIR;Birkenfeld/Nahe und Idar-Oberstein;RhPf
+BIT;Bitburg-Prüm;RhPf
+BIW;Bischofswerda;Sachs;a
+BL;Zollernalbkreis in Balingen;BaWü
+BLK;Burgenlandkreis;SaAn
+BM;Erftkreis in Bergheim;NrWe
+BN;Bonn;NrWe
+BNA;Borna;Sachs;a
+BO;Bochum;NrWe
+BÖ;Bördekreis-Oschersleben;SaAn
+BOR;Borken in Ahaus;NrWe
+BOT;Bottrop;NrWe
+BP;Bundespolizei
+BRA;Wesermarsch in Brake;NiSa
+BRB;Brandenburg;Brandenburg
+BRG;Burg;SaAn;a
+BS;Braunschweig;NiSa
+BSK;Beeskow;Brandenburg;a
+BT;Bayernreuth;Bayern
+BTF;Bitterfeld;SaAn
+BÜS;Büsingen am Hochrhein;BaWü
+BÜZ;Bützow;MeVo;a
+BW;Bundes-Wasser- und Schiffahrtsverwaltung
+BWL;Baden-Württemberg Landesregierung und Landtag
+BYL;Bayern Landesregierung und Landtag
+BZ;Bautzen;Sachs
+C;Chemnitz;Sachs
+CA;Calau;Brandenburg;a
+CB;Cottbus;Brandenburg
+CE;Celle;NiSa
+CHA;Cham/Oberpfalz;Bayern
+CLP;Cloppenburg;NiSa
+CO;Coburg;Bayern
+COC;Cochem-Zell/Mosel;RhPf
+COE;Coesfeld/Westfalen;NrWe
+CUX;Cuxhaven;NiSa
+CW;Calw;BaWü
+D;Düsseldorf;NrWe
+DA;Darmstadt-Dieburg;Hess
+DAH;Dachau;Bayern
+DAN;Lüchow-Dannenberg;NiSa
+DAU;Daun;Eifel;RhPf
+DB;Deutsche Bahn
+DBR;Bad Doberan;MeVo
+DD;Dresden;Sachs
+DE;Dessau;SaAn
+DEG;Deggendorf;Bayern
+DEL;Delmenhorst;NiSa
+DGF;Dingolfing-Landau;Bayern
+DH;Diepholz-Syke;NiSa
+DL;Döbeln;Sachs
+DLG;Dillingen/Donau;Bayern
+DM;Demmin;MeVo
+DN;Düren;NrWe
+DO;Dortmund;NrWe
+DON;Donau-Ries in Donauwörth;Bayern
+DS;Dahme-Spreewald;Brandenburg;a
+DU;Duisburg;NrWe
+DÜW;Bad Dürkheim in Neustadt/Weinstraße;RhPf
+DW;Dippoldiswalde-Weißeritzkreis;Sachs
+DZ;Delitzsch;Sachs
+E;Essen;NrWe
+EB;Eilenburg;Sachs;a
+EBE;Ebersberg;Bayern
+ED;Erding;Bayern
+EE;Elbe-Elster;Brandenburg
+EF;Erfurt;Thür
+EH;Eisenhüttenstadt;Brandenburg;a
+EI;Eichstätt;Bayern
+EIC;Eichsfeld;Thür
+EIL;Eisleben;SaAn;a
+EIS;Eisenberg;Thür;a
+EL;Emsland in Meppen;NiSa
+EM;Emmendingen;BaWü
+EMD;Emden;NiSa
+EMS;Rhein-Lahn-Kreis in Bad Ems;RhPf
+EN;Ennepe-Ruhr-Kreis in Schwelm;NrWe
+ER;Erlangen/Stadt;Bayern
+ERB;Odenwaldkreis in Erbach;Hess
+ERH;Erlangen-Höchstadt;Bayern
+ES;Esslingen/Neckar;BaWü
+ESA;Eisenach;Thür;a
+ESW;Werra-Meißner-Kreis in Eschwege;Hess
+EU;Euskirchen;NrWe
+EW;Eberswalde;Brandenburg;a
+F;Frankfurt/Main;Hess
+FB;Wetteraukreis in Friedberg;Hess
+FD;Fulda;Hess
+FDS;Freudenstadt;BaWü
+FF;Frankfurt/Oder;Brandenburg
+FFB;Fürstenfeldbruck;Bayern
+FG;Freiberg/Sachsen;Sachs
+FI;Finsterwalde;Brandenburg;a
+FL;Flensburg;SlHo
+FLÖ;Flöha;Sachs;a
+FN;Bodenseekreis in Friedrichshafen;BaWü
+FO;Forchheim;Bayern
+FOR;Forst;Brandenburg;a
+FR;Freiburg/Breisgau;BaWü
+FRG;Freyung-Grafenau;Bayern
+FRI;Friesland in Jever;NiSa
+FRW;Bad Freienwalde;Brandenburg;a
+FS;Freising;Bayern
+FT;Frankenthal/Pfalz;RhPf
+FTL;Freital;Sachs;a
+FÜ;Fürth;Bayern
+FW;Fürstenwalde;Brandenburg;a
+G;Gera;Thür
+GA;Gardelegen;SaAn;a
+GAP;Garmisch-Partenkirchen;Bayern
+GC;Glauchau;Chemnitzer Land;Sachs
+GDB;Gadebusch;MeVo;a
+GE;Gelsenkirchen;NrWe
+GER;Germersheim;RhPf
+GF;Gifhorn;NiSa
+GG;Groß-Gerau;Hess
+GHA;Geithain;Sachs;a
+GHC;Gräfenhainichen;SaAn;a
+GI;Gießen;Hess
+GL;Rheinisch-Bergischer Kreis in Bergisch Gladbach;NrWe
+GM;Oberbergischer Kreis in Gummersbach;NrWe
+GMN;Grimmen;MeVo;a
+GNT;Genthin;SaAn;a
+GÖ;Göttingen;NiSa
+GP;Göppingen;BaWü
+GR;Görlitz;Sachs
+GRH;Grossenhain;Sachs;a
+GRM;Grimma;Sachs;a
+GRS;Gransee;Brandenburg;a
+GRZ;Greiz;Thür
+GS;Goslar;NiSa
+GT;Gütersloh in Rheda-Wiedenbrück;NrWe
+GTH;Gotha;Thür
+GÜ;Güstrow;MeVo
+GUB;Guben;Brandenburg;a
+GVM;Grevesmühlen;MeVo;a
+GW;Greifswald/Landkreis;MeVo;a
+GZ;Günzburg;Bayern
+H;Hannover;NiSa
+HA;Hagen/Westfalen;NrWe
+HAL;Halle/Saale;SaAn
+HAM;Hamm/Westfalen;NrWe
+HAS;Haßberge in Haßfurt;Bayern
+HB;Hansestadt Bremen und Bremerhaven;Bre
+HBN;Hildburghausen;Thür
+HBS;Halberstadt;SaAn
+HC;Hainichen;Sachs;a
+HD;Rhein-Neckar-Kreis und Heidelberg;BaWü
+HDH;Heidenheim/Brenz;BaWü
+HDL;Haldensleben;SaAn;a
+HE;Helmstedt;NiSa
+HEF;Bad Hersfeld-Rotenburg;Hess
+HEI;Dithmarschen in Heide/Holstein;SlHo
+HEL;Hessen Landesregierung und Landtag
+HER;Herne;NrWe
+HET;Hettstedt;SaAn;a
+HF;Herford in Kirchlengern;NrWe
+HG;Hochtaunuskreis in Bad Homburg v.d.H.;Hess
+HGN;Hagenow;MeVo;a
+HGW;Hansestadt Greifswald;MeVo
+HH;Hansestadt Hamburg;Hbg
+HHM;Hohenmölsen;SaAn;a
+HI;Hildesheim;NiSa
+HIG;Heiligenstadt;Thür;a
+HL;Hansestadt Lübeck;SlHo
+HM;Hameln-Pyrmont;NiSa
+HN;Heilbronn/Neckar;BaWü
+HO;Hof/Saale;Bayern
+HOL;Holzminden;NiSa
+HOM;Saar-Pfalz-Kreis in Homburg/Saar;Saar
+HOT;Hohenstein-Ernstthal;Sachs;a
+HP;Bergstraße in Heppenheim;Hess
+HR;Schwalm-Eder-Kreis in Homberg;Hess
+HRO;Hansestadt Rostock;MeVo
+HS;Heinsberg;NrWe
+HSK;Hochsauerlandkreis in Meschede;NrWe
+HST;Hansestadt Stralsund;MeVo
+HU;Hanau Main-Kinzig-Kreis;Hess
+HV;Havelberg;SaAn;a
+HVL;Havelland;Brandenburg
+HWI;Hansestadt Wismar;MeVo
+HX;Höxter;NrWe
+HY;Hoyerswerda;Sachs
+HZ;Herzberg;Brandenburg;a
+IGB;St. Ingbert;Saar
+IK;Ilm-Kreis;Thür
+IL;Ilmenau;Thür;a
+IN;Ingolstadt/Donau;Bayern
+IZ;Itzehoe;SlHo
+J;Jena;Thür
+JB;Jüterbog;Brandenburg;a
+JE;Jessen;SaAn;a
+JL;Jerichower Land;SaAn
+K;Köln;NrWe
+KA;Karlsruhe;BaWü
+KB;Waldeck-Frankenberg in Korbach;Hess
+KC;Kronach;Bayern
+KE;Kempten/Allgäu;Bayern
+KEH;Kelheim;Bayern
+KF;Kaufbeuren;Bayern
+KG;Bad Kissingen;Bayern
+KH;Bad Kreuznach;RhPf
+KI;Kiel;SlHo
+KIB;Donnersberg-Kreis in Kirchheimbolanden;RhPf
+KL;Kaiserslautern;RhPf
+KLE;Kleve;NrWe
+KLZ;Klötze;SaAn;a
+KM;Kamenz;Sachs
+KN;Konstanz;BaWü
+KO;Koblenz;RhPf
+KÖT;Köthen;SaAn
+KR;Krefeld;NrWe
+KS;Kassel;Hess
+KT;Kitzingen;Bayern
+KU;Kulmbach;Bayern
+KÜN;Hohenlohe-Kreis in Künzelsau;BaWü
+KUS;Kusel;RhPf
+KW;Königs-Wusterhausen;Brandenburg;a
+KY;Kyritz;Brandenburg;a
+KYF;Kyffhäuserkreis;Thür
+L;Leipzig;Sachs
+LA;Landshut;Bayern
+LAU;Nürnberger Land in Lauf/Pegnitz;Bayern
+LB;Ludwigsburg;BaWü
+LBS;Lobenstein;Thür;a
+LBZ;Lübz;MeVo;a
+LC;Luckau;Sachs;a
+LD;Landau/Pfalz;RhPf
+LDK;Lahn-Dill-Kreis in Wetzlar;Hess
+LDS;Dahme-Spreewald;Brandenburg
+LER;Leer/Ostfriesland;NiSa
+LEV;Leverkusen;NrWe
+LG;Lüneburg;NiSa
+LI;Lindau/Bodensee;Bayern
+LIB;Bad Liebenwerda;Brandenburg;a
+LIF;Lichtenfels;Bayern
+LIP;Lippe in Detmold;NrWe
+LL;Landsberg/Lech;Bayern
+LM;Limburg-Weilburg/Lahn;Hess
+LN;Lübben;Brandenburg;a
+LÖ;Lörrach;BaWü
+LÖB;Löbau;Sachs;a
+LOS;Oder-Spree-Kreis Beeskow;Brandenburg
+LSA;Sachsen-Anhalt Landesregierung und Landtag
+LSN;Sachsen Landesregierung und Landtag
+LSZ;Bad Langensalza;Thür;a
+LU;Ludwigshafen/Rhein;RhPf
+LUK;Luckenwalde;Brandenburg;a
+LWL;Ludwigslust;MeVo
+M;München;Bayern
+MA;Mannheim;BaWü
+MAB;Marienberg;Sachs;a
+MB;Miesbach;Bayern
+MC;Malchin;MeVo;a
+MD;Magdeburg;SaAn
+ME;Mettmann;NrWe
+MEI;Meißen;Sachs
+MEK;Mittlerer Erzgebirgskreis;Sachs
+MER;Merseburg;SaAn;a
+MG;Mönchengladbach;NrWe
+MGN;Meiningen;Thür;a
+MH;Mülheim/Ruhr;NrWe
+MHL;Mühlhausen;Thür;a
+MI;Minden-Lübbecke/Westfalen;NrWe
+MIL;Miltenberg;Bayern
+MK;Märkischer Kreis in Lüdenscheid;NrWe
+ML;Mansfelder Land;SaAn
+MM;Memmingen;Bayern
+MN;Unterallgäu in Mindelheim;Bayern
+MOL;Märkisch-Oderland;Brandenburg
+MOS;Neckar-Odenwald-Kreis in Mosbach;BaWü
+MR;Marburg-Biedenkopf/Lahn;Hess
+MS;Münster/Westfalen;NrWe
+MSP;Main-Spessart-Kreis in Karlstadt;Bayern
+MST;Mecklenburg-Strelitz;MeVo
+MTK;Main-Taunus-Kreis in Hofheim;Hess
+MÜ;Mühldorf am Inn;Bayern
+MÜR;Müritz;MeVo
+MVL;Mecklenburg-Vorpommern Landesregierung und Landtag
+MW;Mittweida;Sachs
+MYK;Mayen-Koblenz;RhPf
+MZ;Mainz-Bingen und Mainz;RhPf
+MZG;Merzig-Wadern;Saar
+N;Nürnberg;Bayern
+NAU;Nauen;Brandenburg;a
+NB;NeuBrandenburg;MeVo
+ND;Neuburg-Schrobenhausen/Donau;Bayern
+NDH;Nordhausen;Thür
+NE;Neuss;NrWe
+NEA;Neustadt-Bad Windsheim/Aisch;Bayern
+NEB;Nebra/Unstrut;SaAn;a
+NES;Rhön-Grabfeld in Bad Neustadt/Saale;Bayern
+NEW;Neustadt/Waldnaab;Bayern
+NF;Nordfriesland in Husum;SlHo
+NH;Neuhaus/Rennsteig;Thür;a
+NI;Nienburg/Weser;NiSa
+NK;Neunkirchen/Saar;Saar
+NL;Niedersachsen Landesregierung und Landtag
+NM;Neumarkt/Oberpfalz;Bayern
+NMB;Naumburg/Saale;SaAn;a
+NMS;Neumünster;SlHo
+NOH;Grafschaft Bentheim in Nordhorn;NiSa
+NOL;Niederschlesischer Oberlausitzkreis;Sachs
+NOM;Northeim;NiSa
+NP;Neuruppin;Brandenburg;a
+NR;Neuwied/Rhein;RhPf
+NRW;Nordrhein-Westfalen Landesregierung und Landtag
+NU;Neu-Ulm;Bayern
+NVP;Nordvorpommern;MeVo
+NW;Neustadt/Weinstraße;RhPf
+NWM;Nordwestmecklenburg;MeVo
+NY;Niesky;Sachs;a
+NZ;Neustrelitz;MeVo;a
+OA;Oberallgäu in Sonthofen;Bayern
+OAL;Ostallgäu in Marktoberdorf;Bayern
+OB;Oberhausen/Rheinland;NrWe
+OBG;Osterburg;SaAn;a
+OC;Oschersleben;SaAn;a
+OD;Stormarn in Bad Oldesloe;SlHo
+OE;Olpe;NrWe
+OF;Offenbach/Main;Hess
+OG;Ortenaukreis in Offenburg;BaWü
+OH;Ostholstein in Eutin;SlHo
+OHA;Osterode/Harz;NiSa
+OHV;Oranienburg Oberhavel;Brandenburg
+OHZ;Osterholz-Scharmbeck;NiSa
+OK;Ohre-Kreis;SaAn
+OL;Oldenburg;NiSa
+OPR;Ostprignitz-Ruppin;Brandenburg
+OR;Oranienburg;Brandenburg;a
+OS;Osnabrück;NiSa
+OSL;Senftenberg;Oberspreewald-Lausitz;Brandenburg
+OVL;Obervogtland in Klingenthal und Ölsnitz;Sachs;a
+OVP;Ostvorpommern;MeVo
+OZ;Oschatz;Sachs;a
+P;Potsdam;Brandenburg
+PA;Passau;Bayern
+PAF;Pfaffenhofen/Ilm;Bayern
+PAN;Rottal-Inn in Pfarrkirchen;Bayern
+PB;Paderborn;NrWe
+PCH;Parchim;MeVo
+PE;Peine;NiSa
+PER;Perleberg;Brandenburg;a
+PF;Enzkreis und Pforzheim;BaWü
+PI;Pinneberg;SlHo
+PIR;Pirna;Sächsische Schweiz;Sachs
+PK;Pritzwalk;Brandenburg;a
+PL;Plauen;Sachs
+PLÖ;Plön/Holstein;SlHo
+PM;Belzig;Potsdam-Mittelmark;Brandenburg
+PN;Pössneck;Thür;a
+PR;Prignitz in Perleberg;Brandenburg
+PS;Pirmasens;RhPf
+PW;Pasewalk;MeVo;a
+PZ;Prenzlau;Brandenburg;a
+QFT;Querfurt;SaAn;a
+QLB;Quedlinburg;SaAn
+R;Regensburg;Bayern
+RA;Rastatt;BaWü
+RC;Reichenbach/Vogtland;Sachs;a
+RD;Rendsburg-Eckernförde;SlHo
+RDG;Ribnitz-Damgarten;MeVo;a
+RE;Recklinghausen in Marl;NrWe
+REG;Regen;Bayernr. Wald;Bayern
+RG;Riesa-Großenhain;Sachs
+RH;Roth/Rednitz;Bayern
+RIE;Riesa;Sachs;a
+RL;Rochlitz;Sachs;a
+RM;Röbel/Müritz;MeVo;a
+RN;Rathenow;Brandenburg;a
+RO;Rosenheim;Bayern
+ROS;Rostock/Landkreis;MeVo;a
+ROW;Rotenburg/Wümme;NiSa
+RPL;Rheinland-Pfalz Landesregierung und Landtag
+RS;Remscheid;NrWe
+RSL;Rosslau/Elbe;SaAn
+RT;Reutlingen;BaWü
+RU;Rudolstadt;Thür;a
+RÜD;Rheingau-Taunus-Kreis in Rüdesheim;Hess
+RÜG;Rügen in Bergen;MeVo
+RV;Ravensburg;BaWü
+RW;Rottweil;BaWü
+RZ;Herzogtum Lauenburg in Ratzeburg;SlHo
+S;Stuttgart;BaWü
+SAD;Schwandorf;Bayern
+SAL;Saarland Landesregierung und Landtag
+SAW;Altmarkkreis;Salzwedel;SaAn
+SB;Saarbrücken;Saar
+SBG;Strasburg;MeVo;a
+SBK;Schönebeck/Elbe;SaAn
+SC;Schwabach;Bayern
+SCZ;Schleiz;Thür;a
+SDH;Sondershausen;Thür;a
+SDL;Stendal;SaAn
+SDT;Schwedt/Oder;Brandenburg;a
+SE;Bad Segeberg;SlHo
+SEB;Sebnitz;Sachs;a
+SEE;Seelow;Brandenburg;a
+SFA;Soltau-Fallingbostel;NiSa
+SFB;Senftenberg;Brandenburg;a
+SFT;Stassfurt;SaAn;a
+SG;Solingen;NrWe
+SGH;Sangerhausen;SaAn
+SH;Schleswig-Holstein Landesregierung und Landtag
+SHA;Schwäbisch Hall;BaWü
+SHG;Schaumburg in Stadthagen;NiSa
+SHK;Saale-Holzlandkreis;Thür
+SHL;Suhl;Thür
+SI;Siegen;NrWe
+SIG;Sigmaringen;BaWü
+SIM;Rhein-Hunsrück-Kreis in Simmern;RhPf
+SK;Saalkreis in Halle;SaAn
+SL;Schleswig-Flensburg;SlHo
+SLF;Saalfeld-Rudolstadt;Thür
+SLN;Schmölln;Thür;a
+SLS;Saarlouis;Saar
+SLZ;Bad Salzungen;Thür;a
+SM;Schmalkalden-Meiningen;Thür
+SN;Schwerin;MeVo
+SO;Soest;NrWe
+SOK;Saale-Orla-Kreis;Thür
+SÖM;Sömmerda;Thür
+SON;Sonneberg;Thür
+SP;Speyer;RhPf
+SPB;Spremberg;Brandenburg;a
+SPN;Spree-Neiße;Brandenburg
+SR;Straubing-Bogen;Bayern
+SRB;Strausberg;Brandenburg;a
+SRO;Stadtroda;Thür;a
+ST;Steinfurt;NrWe
+STA;Starnberg;Bayern
+STB;Sternberg;MeVo;a
+STD;Stade;NiSa
+STL;Stollberg;Sachs
+SU;Rhein-Sieg-Kreis in Siegburg;NrWe
+SÜW;Südl. Weinstraße in Landau;RhPf
+SW;Schweinfurt;Bayern
+SZ;Salzgitter;NiSa
+SZB;Schwarzenberg;Sachs;a
+TBB;Main-Tauber-Kreis in Tauberbischofsheim;BaWü
+TET;Teterow;MeVo;a
+TF;Teltow-Fläming;Brandenburg
+TG;Torgau;Sachs;a
+THL;Thüringen Landesregierung und Landtag
+TIR;Tirschenreuth;Bayern
+TO;Torgau-Oschatz;Sachs
+TÖL;Bad Tölz-Wolfratshausen;Bayern
+TP;Templin/Uckermark;Brandenburg;a
+TR;Trier-Saarburg;RhPf
+TS;Traunstein;Bayern
+TÜ;Tübingen;BaWü
+TUT;Tuttlingen;BaWü
+UE;Uelzen;NiSa
+UEM;Ueckermünde;MeVo;a
+UER;Uecker-Randow;MeVo
+UH;Unstrut-Hainich-Kreis;Thür
+UL;Alb-Donau-Kreis und Ulm;BaWü
+UM;Uckermark;Brandenburg
+UN;Unna/Westfalen;NrWe
+V;Vogtlandkreis;Plauen;Sachs
+VB;Vogelsbergkreis in Lauterbach;Hess
+VEC;Vechta;NiSa
+VER;Verden/Aller;NiSa
+VIE;Viersen;NrWe
+VK;Völklingen;Saar
+VS;Schwarzwald-Baar-Kreis in Villingen-Schwenningen;BaWü
+W;Wuppertal;NrWe
+WAF;Warendorf;NrWe
+WAK;Wartburgkreis;Thür
+WB;Wittenberg;SaAn
+WBS;Worbis;Thür;a
+WDA;Werdau;Sachs;a
+WE;Weimar;Thür
+WEN;Weiden/Oberpfalz;Bayern
+WES;Wesel in Mörs;NrWe
+WF;Wolfenbüttel;NiSa
+WHV;Wilhelmshaven;NiSa
+WI;Wiesbaden;Hess
+WIL;Bernkastel-Wittlich/Mosel;RhPf
+WIS;Wismar/Landkreis;MeVo;a
+WK;Wittstock;Brandenburg;a
+WL;Harburg in Winsen/Luhe;NiSa
+WLG;Wolgast/Usedom;MeVo;a
+WM;Weilheim-Schongau/OberBayern;Bayern
+WMS;Wolmirstedt;SaAn;a
+WN;Rems-Murr-Kreis in Waiblingen;BaWü
+WND;St. Wendel;Saar
+WO;Worms;RhPf
+WOB;Wolfsburg;NiSa
+WR;Wernigerode;SaAn
+WRN;Waren/Müritz;MeVo;a
+WSF;Weißenfels;SaAn
+WST;Ammerland in Westerstede;NiSa
+WSW;Weißwasser;Sachs;a
+WT;Waldshut-Tiengen;BaWü
+WTM;Wittmund;NiSa
+WÜ;Würzburg;Bayern
+WUG;Weißenburg-Gunzenhausen;Bayern
+WUN;Wunsiedel;Bayern
+WUR;Wurzen;Sachs;a
+WW;Westerwald in Montabaur;RhPf
+WZL;Wanzleben;SaAn;a
+X;Bundeswehr für NATO-Hauptquartiere
+Y;Bundeswehr
+Z;Zwickauer Land;Sachs
+ZE;Zerbst;SaAn;a
+ZI;Sächsischer Oberlausitzkreis Zittau;Sachs
+ZP;Zschopau;Sachs;a
+ZR;Zeulenroda;Thür;a
+ZS;Zossen;Brandenburg;a
+ZW;Zweibrücken;RhPf
+ZZ;Zeitz;SaAn;a
