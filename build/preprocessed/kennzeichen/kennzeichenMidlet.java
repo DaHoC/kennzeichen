@@ -26,6 +26,7 @@ public class kennzeichenMidlet extends MIDlet implements CommandListener {
     private final Command exitCommand = new Command("Exit", Command.EXIT, 1);
     private final Command search = new Command("Suche", Command.OK, 2);
     private TextField badge = new TextField("Kennzeichen", "", 3, TextField.ANY);
+    private TextField town = new TextField("Stadt", "", 20, TextField.ANY);
 
     public kennzeichenMidlet() {
         this.display = Display.getDisplay(this);
@@ -44,7 +45,10 @@ public class kennzeichenMidlet extends MIDlet implements CommandListener {
         form.setTitle("Kennzeichen suchen");
         form.addCommand(search);
         form.addCommand(exitCommand);
+//        badge.addCommand(search);
+//        badge.setDefaultCommand(search);
         form.append(badge);
+        form.append(town);
         form.setCommandListener(this);
     }
 
@@ -97,20 +101,33 @@ public class kennzeichenMidlet extends MIDlet implements CommandListener {
     }
 
     public void commandAction(Command c, Displayable d) {
+        boolean reverseSearch = false;
         if (c == exitCommand) {
             destroyApp(false);
             System.out.println("Exit");
         } else if (c == search) {
             form.delete(form.size()-1);
-            String place = kdb.getPlaceOfBadge(this.badge.getString());
-            if (place.equalsIgnoreCase("")) {
-                form.append("Kennzeichen nicht gefunden!");
+            String searchResult = "";
+            reverseSearch = (this.badge.getString().equalsIgnoreCase(""));
+            if (!reverseSearch) {
+                searchResult = kdb.getPlaceOfBadge(this.badge.getString());
             } else {
-                String state = kdb.getStateOfBadge(this.badge.getString());
-                if (!state.equalsIgnoreCase("")) {
-                    form.append(place + " (" + kdb.getStateOfBadge(this.badge.getString()) + ")");
+                if (!this.town.getString().equalsIgnoreCase("")) {
+                    searchResult = kdb.getBadgeOfTown(this.town.getString());
+                }
+            }
+            if (searchResult.equalsIgnoreCase("")) {
+                form.append("Kennzeichen / Stadt nicht gefunden!");
+            } else {
+                if (reverseSearch) {
+                    form.append("Kennzeichen: " + searchResult.toUpperCase());
                 } else {
-                    form.append(place);
+                    String state = kdb.getStateOfBadge(this.badge.getString());
+                    if (!state.equalsIgnoreCase("")) {
+                        form.append(searchResult + " (" + kdb.getStateOfBadge(this.badge.getString()) + ")");
+                    } else {
+                        form.append(searchResult);
+                    }
                 }
             }
         }

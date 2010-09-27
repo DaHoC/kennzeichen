@@ -3,6 +3,7 @@
  */
 package kennzeichen;
 
+import java.util.Enumeration;
 import java.util.Hashtable;
 
 public class kennzeichendb {
@@ -50,6 +51,25 @@ public class kennzeichendb {
         }
         places.put(index, place);
         states.put(index, state);
+    }
+
+    // Retrieve badge from town name (more expensive, instead of doing lookup we need to search)
+    public String getBadgeOfTown(String town) {
+        town = town.trim().toLowerCase();
+        String foundBadge = "";
+//        if (this.places.contains(town)) {
+            boolean found = false;
+            Enumeration en = this.places.keys();
+            // Search for the value in our Hashmap by iterating over keys
+            while (!found && en.hasMoreElements()) {
+                String curKey = en.nextElement().toString();
+                if (this.places.get(curKey).toString().equalsIgnoreCase(town)) {
+                    foundBadge = curKey;
+                    found = true;
+                }
+            }
+//        }
+        return foundBadge;
     }
 
     // Retrieves the place from the given the badge
